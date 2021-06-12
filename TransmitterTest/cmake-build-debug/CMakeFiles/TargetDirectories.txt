@@ -1,0 +1,15 @@
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_CORE.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_RF24.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_RF24_arch_config.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/transmitterTest-size.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_SPI.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_nRF24L01.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_RF24_config.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_Wire.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/transmitterTest.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/nano_twi.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/transmitterTest-upload.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/upload.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/transmitterTest-burn.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/C/KGS/TransmitterTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
